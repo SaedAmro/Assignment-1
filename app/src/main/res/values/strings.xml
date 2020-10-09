@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyMovies</string>
+    <string name="welcome_to_my_movies">Welcome to my Movies</string>
+    <string name="the_movie_genre">the movie genre</string>
+    <string name="year">Year</string>
+    <string-array name="numbers">
+        <item> Horror </item>
+        <item> Comedy </item>
+        <item> Theatre </item>
+
+        <item> Drama </item>
+
+        <item>  Crime </item>
+        <item> Westerns  </item>
+        <item>  Science Fiction </item>
+
+        <item> Adventure </item>
+
+
+
+
+    </string-array>
+
+
+
+</resources>
